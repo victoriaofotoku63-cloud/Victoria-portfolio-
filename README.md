@@ -17,4 +17,4 @@ This website showcases my work as an **Administrative Virtual Assistant**.
 
 ---
 
-✨ Hosted with **GitHub Pages**  
+Hosted with **GitHub Pages**  
